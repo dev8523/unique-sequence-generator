@@ -1,6 +1,6 @@
 # unique-sequence-generator
-An concurrent API endpoint which always generates an unique sequence value.
+A concurrent API endpoint that always generates a unique sequence value.
 
-# Supported formats
+## Supported sequence formats
 - ALPHANUMERIC
 - NUMERIC
